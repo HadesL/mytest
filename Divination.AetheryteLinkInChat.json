@@ -1,0 +1,34 @@
+[
+  {
+    "AcceptsFeedback": false,
+    "ApplicableVersion": "any",
+    "AssemblyVersion": "0.1.0.1255",
+    "Author": "Asteria Nocturna",
+    "CanUnloadAsync": false,
+    "CategoryTags": [
+      "utility"
+    ],
+    "Changelog": "30c410a: fix(PluginRepository): un-ignore latest.zip\n74fd36f: fix(PluginRepository): fix current dir\n84a36ea: \u2699\ufe0f Deploy FaloopIntegration \"0.1.0-beta.1243.6c05d37.20230508\"\n9bcfe5d: chore(deps): update dependency eslint-plugin-react-refresh to v0.4.1\na3fe0c5: \u2699\ufe0f Deploy Calculator \"0.1.0-beta.1243.6c05d37.20230508\"\n206f4e8: chore(deps): update dependency @vitejs/plugin-react-swc to v3.3.0\n04a22d3: \u2699\ufe0f Deploy TwitterIntegration \"0.1.0-beta.1243.6c05d37.20230508\"\n7fa7595: \u2699\ufe0f Deploy Voiceroid2Talker \"0.1.0-beta.1243.6c05d37.20230508\"\nb8a787f: \u2699\ufe0f Deploy InstanceIDViewer \"0.1.0-beta.1243.6c05d37.20230508\"\n480a224: chore(deps): update dependency typescript to v5.0.4\n9ffff3d: \u2699\ufe0f Deploy DiscordIntegration \"0.1.0-beta.1243.6c05d37.20230508\"\n1ce938d: \u2699\ufe0f Deploy Debugger \"0.1.0-beta.1243.6c05d37.20230508\"\n6c05d37: Merge remote-tracking branch 'origin/master'\n5621630: Delete CNAME\n3abb953: chore(PluginRepository): enable download counter\n6ee9aef: chore(PluginRepository): do not generate master.json on CI\n875d02e: feat(PluginRepository): static pages\n6a8a8f5: refactor(PluginRepository): docs -> dist\nfbc5e48: docs(Plugins): update old README\n01db208: chore(DownloadCounter): move endpoints\nfe24cd4: Merge remote-tracking branch 'origin/master'\n60b5c56: feat(DownloadCounter): add Pages Function\nbb6509c: fix(DownloadCounter): base image tag\n4e5e608: feat(DownloadCounter): rewrite with Golang\n57e14f1: chore(deps): update dependency flask to v2.3.2 [security]\n96c67af: \u2699\ufe0f Regenerate PluginMaster\n45cd7d8: \u2699\ufe0f Deploy FaloopIntegration \"0.1.0-beta.1228.f011e98.20230428\"\nf011e98: chore(deps): update dependency socketioclient to v3.0.8\n88f60d8: \u2699\ufe0f Deploy Calculator \"0.1.0-beta.1226.4c8bcd2.20230428\"\n4c8bcd2: fix: typo",
+    "DalamudApiLevel": 8,
+    "Description": "Add a link to teleport to the nearest aetheryte into map link in chat.",
+    "DownloadCount": 162,
+    "DownloadLinkInstall": "https://xiv.starry.blue/plugins/stable/AetheryteLinkInChat/download",
+    "DownloadLinkTesting": "https://xiv.starry.blue/plugins/testing/AetheryteLinkInChat/download",
+    "IconUrl": null,
+    "ImageUrls": [],
+    "InternalName": "AetheryteLinkInChat",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdated": 1683541674,
+    "LoadPriority": 0,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "Name": "Divination.AetheryteLinkInChat",
+    "Punchline": "Quick teleport for Mob Hunting",
+    "RepoUrl": "https://github.com/SlashNephy/Divination",
+    "Tags": [
+      "teleporter"
+    ],
+    "TestingAssemblyVersion": "0.1.0.1255"
+  }
+ ]
