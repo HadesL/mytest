@@ -7,6 +7,6 @@
 	"RepoUrl": "https://github.com/NightmareXIV/Lifestream",
 	"ApplicableVersion": "any",
 	"DalamudApiLevel": 8,
-	"DownloadLinkInstall": "https://github.com/NightmareXIV/Lifestream/releases/download/1.0.0.5/latest.zip",
-	"DownloadLinkUpdate": "https://github.com/NightmareXIV/Lifestream/releases/download/1.0.0.5/latest.zip"
+	"DownloadLinkInstall": "https://ghproxy.com/https://github.com/NightmareXIV/Lifestream/releases/download/1.0.0.5/latest.zip",
+	"DownloadLinkUpdate": "https://ghproxy.com/https://github.com/NightmareXIV/Lifestream/releases/download/1.0.0.5/latest.zip"
 }]
