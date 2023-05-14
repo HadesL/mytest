@@ -1,14 +1,12 @@
-[
-    {
-        "Author":"NightmareXIV",
-        "Name":"Lifestream",
-        "InternalName":"Lifestream",
-		"AssemblyVersion": "1.0.0.5",
-        "Description":"- One click to teleport to any world or aethernet destination\n- Click on aetheryte shards inside zone map to teleport to them",
-        "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
-        "ApplicableVersion":"any",
-        "DalamudApiLevel":8,
-        "DownloadLinkInstall":"https://github.com/NightmareXIV/Lifestream/releases/download/1.0.0.5/latest.zip"
-        "DownloadLinkUpdate":"https://github.com/NightmareXIV/Lifestream/releases/download/1.0.0.5/latest.zip"
-    }
-]
+[{
+	"Author": "NightmareXIV",
+	"Name": "Lifestream",
+	"InternalName": "Lifestream",
+	"AssemblyVersion": "1.0.0.5",
+	"Description": "- One click to teleport to any world or aethernet destination\n- Click on aetheryte shards inside zone map to teleport to them",
+	"RepoUrl": "https://github.com/NightmareXIV/Lifestream",
+	"ApplicableVersion": "any",
+	"DalamudApiLevel": 8,
+	"DownloadLinkInstall": "https://github.com/NightmareXIV/Lifestream/releases/download/1.0.0.5/latest.zip",
+	"DownloadLinkUpdate": "https://github.com/NightmareXIV/Lifestream/releases/download/1.0.0.5/latest.zip"
+}]
