@@ -18,7 +18,7 @@
 		"CanUnloadAsync": false,
 		"LoadPriority": 0,
 		"Punchline": "一个触发S怪用的小工具",
-		"AcceptsFeedback": true
+		"AcceptsFeedback": true,
         "DownloadLinkInstall": "https://ghproxy.com/https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
