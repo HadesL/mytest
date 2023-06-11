@@ -1,0 +1,21 @@
+[
+{
+        "Author": "NightmareXIV",
+        "Name": "Splatoon",
+        "Punchline": "Infinite waymarks in the world and target circles.",
+        "Description": "",
+        "InternalName": "Splatoon",
+        "AssemblyVersion": "1003.1.0.2",
+        "RepoUrl": "https://github.com/NightmareXIV/Splatoon",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 7,
+        "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/Splatoon/icon.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/NightmareXIV/Splatoon/releases/download/3.2.1.3/Splatoon.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/NightmareXIV/Splatoon/releases/download/3.2.1.3/Splatoon.zip",
+        "DownloadLinkUpdate": "https://github.com/NightmareXIV/Splatoon/releases/download/3.2.1.3/Splatoon.zip",
+        "DownloadCount": 1000,
+        "LastUpdated": "0"
+    }]
