@@ -144,5 +144,24 @@
 		"DownloadLinkTesting": "https://love.puni.sh/plugins/Artisan/Testing/latest.zip",
 		"IconUrl": "https://love.puni.sh/resources/artisan.png",
 		"AcceptsFeedback": true
-	}
+	},
+	{
+    "Author": "кайт машина (Puni.sh)",
+    "Name": "AutoRetainer",
+    "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
+    "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
+    "InternalName": "AutoRetainer",
+    "AssemblyVersion": "3.1.4.6",
+    "TestingAssemblyVersion": "3.1.5.5",
+    "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 8,
+    "DownloadCount": 74069,
+    "LastUpdate": 1691612920,
+    "DownloadLinkInstall": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
+    "DownloadLinkUpdate": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
+    "DownloadLinkTesting": "https://love.puni.sh/plugins/AutoRetainer/Testing/latest.zip",
+    "IconUrl": "https://love.puni.sh/resources/auto-retainer.png",
+    "AcceptsFeedback": true
+  }
 ]
