@@ -9,7 +9,7 @@
         "RepoUrl": "https://github.com/NightmareXIV/Splatoon",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/Splatoon/icon.png",
+        "IconUrl": "https://ghproxy.com/https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/Splatoon/icon.png",
         "ImageUrls": [],
         "DownloadLinkInstall": "https://ghproxy.com/https://github.com/NightmareXIV/Splatoon/releases/download/3.2.1.3/Splatoon.zip",
         "IsHide": false,
