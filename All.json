@@ -39,11 +39,11 @@
 		"LoadPriority": 0,
 		"Punchline": "一个触发S怪用的小工具",
 		"AcceptsFeedback": true,
-		"DownloadLinkInstall": "https://ghproxy.com/https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
+		"DownloadLinkInstall": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
 		"IsHide": false,
 		"IsTestingExclusive": false,
-		"DownloadLinkTesting": "https://ghproxy.com/https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
-		"DownloadLinkUpdate": "https://ghproxy.com/https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip"
+		"DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
+		"DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip"
 	},
 	{
 		"Author": "Asvel",
