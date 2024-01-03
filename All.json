@@ -115,12 +115,12 @@
 		"Changelog": "Click the new Changelog button to see whats new",
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
-		"AssemblyVersion": "2.5.0.0",
+		"AssemblyVersion": "2.4.4.1",
 		"LastUpdated": 1678303302,
 		"DownloadCount": 4662,
-		"DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.5.0.0/latest.zip",
-		"DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.5.0.0/latest.zip",
-		"DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.5.0.0/latest.zip"
+		"DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.4.4.1/latest.zip",
+		"DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.4.4.1/latest.zip",
+		"DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.4.4.1/latest.zip"
 	},
 	{
 		"Author": "Taurenkey (Puni.sh)",
