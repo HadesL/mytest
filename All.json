@@ -115,12 +115,12 @@
 		"Changelog": "Click the new Changelog button to see whats new",
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
-		"AssemblyVersion": "2.4.4.1",
+		"AssemblyVersion": "3.0.1.0",
 		"LastUpdated": 1678303302,
 		"DownloadCount": 4662,
-		"DownloadLinkInstall": "https://hub.nuaa.cf/InitialDet/AutoHook/releases/download/2.4.4.1/latest.zip",
-		"DownloadLinkTesting": "https://hub.nuaa.cf/InitialDet/AutoHook/releases/download/2.4.4.1/latest.zip",
-		"DownloadLinkUpdate": "https://hub.nuaa.cf/InitialDet/AutoHook/releases/download/2.4.4.1/latest.zip"
+		"DownloadLinkInstall": "https://hub.nuaa.cf/InitialDet/AutoHook/releases/download/3.0.1.0/latest.zip",
+		"DownloadLinkTesting": "https://hub.nuaa.cf/InitialDet/AutoHook/releases/download/3.0.1.0/latest.zip",
+		"DownloadLinkUpdate": "https://hub.nuaa.cf/InitialDet/AutoHook/releases/download/3.0.1.0/latest.zip"
 	},
 	{
 		"Author": "Taurenkey (Puni.sh)",
