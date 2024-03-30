@@ -42,26 +42,6 @@
 		"LastUpdate": "1709698704"
 	},
 	{
-		"Author": "Asvel",
-		"Name": "Literal Map Link",
-		"InternalName": "LiteralMapLink",
-		"Punchline": "Turn map coordinates literal into interactable map link.",
-		"Description": "Turn map coordinates literal into interactable map link when you post in-game chat messages.\nWARNING: currently it's only tested under Chinese version FFXIV client.",
-		"Tags": ["Chat", "Utility"],
-		"RepoUrl": "https://hub.nuaa.cf/Asvel/ffxiv-literal-map-link",
-		"AssemblyVersion": "1.1.4.0",
-		"ApplicableVersion": "any",
-		"DalamudApiLevel": 8,
-		"IsHide": "False",
-		"IsTestingExclusive": "False",
-		"DownloadCount": 0,
-		"CategoryTags": ["social", "utility"],
-		"LastUpdate": "1674927698",
-		"DownloadLinkInstall": "https://asvel.github.io/ffxiv-literal-map-link/1.1.4.0.zip",
-		"DownloadLinkTesting": "https://asvel.github.io/ffxiv-literal-map-link/1.1.4.0.zip",
-		"DownloadLinkUpdate": "https://asvel.github.io/ffxiv-literal-map-link/1.1.4.0.zip"
-	},
-	{
 		"Author": "Asteria Nocturna",
 		"Name": "Divination.AetheryteLinkInChat",
 		"Punchline": "Quick teleport for mob hunts and treasure hunts!",
