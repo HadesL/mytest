@@ -172,7 +172,10 @@
 	  "CanUnloadAsync": false,
 	  "LoadPriority": 0,
 	  "Punchline": "一个触发S怪用的小工具",
-	  "AcceptsFeedback": true
+	  "AcceptsFeedback": true,
+	  "DownloadLinkInstall": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
+	  "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
+	  "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip"
 	},
 	{
         "Author": "Asvel",
