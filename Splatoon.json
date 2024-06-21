@@ -1,23 +1,23 @@
 [{
-	"Author": "NightmareXIV, kawaii",
-	"Name": "Splatoon",
-	"Punchline": "Redefining FFXIV navigation with unlimited, precise waymarks.",
-	"Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
-	"Tags": [
-		"Utility",
-		"Accessibility"
-	],
-	"InternalName": "Splatoon",
-	"RepoUrl": "https://github.com/PunishXIV/Splatoon",
-	"DownloadCount": 204888,
-	"LastUpdate": 1709004667189,
-	"DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
-	"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
-	"AssemblyVersion": "3.4.1.2",
-	"ApplicableVersion": "any",
-	"DalamudApiLevel": "9",
-	"Changelog": "",
-	"TestingAssemblyVersion": "3.5.0.6",
-	"DownloadLinkTesting": "https://puni.sh/api/plugins/download/10/Splatoon/versions/testing.zip",
-	"IconUrl": "https://s3.puni.sh/media/plugin/10/icon-cchf5yumm2p.png"
-}]
+    "Author": "NightmareXIV, kawaii",
+    "Name": "Splatoon",
+    "Punchline": "Redefining FFXIV navigation with unlimited, precise waymarks.",
+    "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
+    "Tags": [
+      "Utility",
+      "Accessibility"
+    ],
+    "InternalName": "Splatoon",
+    "RepoUrl": "https://github.com/PunishXIV/Splatoon",
+    "DownloadCount": 235622,
+    "LastUpdate": 1711039702588,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
+    "AssemblyVersion": "3.4.1.3",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "9",
+    "Changelog": "",
+    "TestingAssemblyVersion": "3.5.0.8",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/10/Splatoon/versions/testing.zip",
+    "IconUrl": "https://s3.puni.sh/media/plugin/10/icon-cchf5yumm2p.png"
+  }]
