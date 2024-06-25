@@ -147,8 +147,8 @@
 	{
 		"Name": "Daily Routines",
 		"InternalName": "DailyRoutines",
-		"AssemblyVersion": "0.5.3.2",
-		"TestingAssemblyVersion": "0.5.3.2",
+		"AssemblyVersion": "0.5.3.6",
+		"TestingAssemblyVersion": "0.5.3.6",
 		"Author": "AtmoOmen",
 		"DownloadCount": 149016,
 		"Punchline": "帮忙解决一些日常重复性劳动",
