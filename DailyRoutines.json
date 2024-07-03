@@ -1,8 +1,8 @@
 [{
 		"Name": "Daily Routines",
 		"InternalName": "DailyRoutines",
-		"AssemblyVersion": "0.5.5.2",
-		"TestingAssemblyVersion": "0.5.5.2",
+		"AssemblyVersion": "0.5.4.0",
+		"TestingAssemblyVersion": "0.5.4.0",
 		"Author": "AtmoOmen",
 		"DownloadCount": 149016,
 		"Punchline": "帮忙解决一些日常重复性劳动",
@@ -19,7 +19,7 @@
 		"AcceptsFeedback": true,
 		"RepoUrl": "https://github.com/AtmoOmen/DailyRoutines",
 		"IconUrl": "https://gh.atmoomen.top/https://raw.githubusercontent.com/AtmoOmen/DailyRoutines/main/imgs/icon.png",
-		"DownloadLinkInstall": "https://gh.atmoomen.top/https://github.com/AtmoOmen/DailyRoutines/releases/download/0.5.5.2/latest.zip",
-		"DownloadLinkTesting": "https://gh.atmoomen.top/https://github.com/AtmoOmen/DailyRoutines/releases/download/0.5.5.2/latest.zip",
-		"DownloadLinkUpdate": "https://gh.atmoomen.top/https://github.com/AtmoOmen/DailyRoutines/releases/download/0.5.5.2/latest.zip"
+		"DownloadLinkInstall": "https://gh.atmoomen.top/https://github.com/AtmoOmen/DailyRoutines/releases/download/0.5.4.0/latest.zip",
+		"DownloadLinkTesting": "https://gh.atmoomen.top/https://github.com/AtmoOmen/DailyRoutines/releases/download/0.5.4.0/latest.zip",
+		"DownloadLinkUpdate": "https://gh.atmoomen.top/https://github.com/AtmoOmen/DailyRoutines/releases/download/0.5.4.0/latest.zip"
 	}]
