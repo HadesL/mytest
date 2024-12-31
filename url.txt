@@ -1,0 +1,7 @@
+https://love.puni.sh/ment.json
+https://xiv.starry.blue/plugins/master.json
+https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster-cn.json
+https://puni.sh/api/repository/veyn
+
+
+
