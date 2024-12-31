@@ -235,4 +235,37 @@
       "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
       "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
     ]
-  },]
+  },
+    {
+        "Author": "Asvel",
+        "Name": "Literal Map Link",
+        "InternalName": "LiteralMapLink",
+        "Punchline": "Turn map coordinates literal into interactable map link.",
+        "Description": "Turn map coordinates literal into interactable map link when you post in-game chat messages.",
+        "Tags": ["Chat", "Utility"],
+        "RepoUrl": "https://github.com/Asvel/ffxiv-literal-map-link",
+        "AssemblyVersion": "1.1.7.1",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 11,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "CategoryTags": ["social", "utility"],
+        "LastUpdate": "1731781778",
+        "DownloadLinkInstall": "https://asvel.github.io/ffxiv-literal-map-link/1.1.7.1.zip",
+        "DownloadLinkTesting": "https://asvel.github.io/ffxiv-literal-map-link/1.1.7.1.zip",
+        "DownloadLinkUpdate": "https://asvel.github.io/ffxiv-literal-map-link/1.1.7.1.zip"
+    }, {
+        "Name": "vnavmesh",
+        "InternalName": "vnavmesh",
+        "AssemblyVersion": "0.0.6.0",
+        "Author": "veyn, AtmoOmen",
+        "Punchline": "\u884c\u904d\u5343\u91cc",
+        "Description": "\u4e0d\u4ec5\u4f1a\u81ea\u52a8\u5bfb\u8def, \u8fd8\u80fd\u81ea\u52a8\u907f\u969c",
+        "ApplicableVersion": "any",
+        "AcceptsFeedback": true,
+        "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
+        "IconUrl": "https://gh.atmoomen.top/https://raw.githubusercontent.com/AtmoOmen/ffxiv_navmesh-cn/master/icon2.png",
+        "DownloadLinkInstall": "https://gh.atmoomen.top/https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.0.6.0/latest.zip",
+        "DownloadLinkUpdate": "https://gh.atmoomen.top/https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.0.6.0/latest.zip"
+    }]
